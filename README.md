@@ -1,6 +1,7 @@
 # gafow_portfolio
 # Data Science page
-https://github.com/agafow/gafow_portfolio/blob/54fb36598a3f39076a0800a5f66fe38ea5fc6f39/gafow2.jpg
+![This is an image](https://github.com/agafow/gafow_portfolio/blob/54fb36598a3f39076a0800a5f66fe38ea5fc6f39/gafow2.jpg)
+
 At the command prompt, 
 type `nano`.
 
