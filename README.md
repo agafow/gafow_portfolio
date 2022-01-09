@@ -1,7 +1,8 @@
 # gafow_portfolio
 # Data Science page
-2.jpg)
+
 ![](https://github.com/agafow/gafow_portfolio/blob/main/gafow2.jpg)
+
 At the command prompt, 
 type `nano`.
 
